@@ -9,15 +9,17 @@
     <title>Welcome to my Doodle</title>
 </head>
 <body>
-    <div class="mainSection">
-        <div class="logoContainer">
-            <img src="/assets/img/logo.png" alt="Logo myDoodle">
-        </div>
-        <div class="searchContainer">
-            <form action="search.php" method="GET">
-                <input type="text" class="searchBox" name="term" placeholder="Enter a search term...">
-                <input type="submit" class="searchButton" value="Search">
-            </form>
+    <div class="wrapper indexPage">
+        <div class="mainSection">
+            <div class="logoContainer">
+                <img src="/assets/img/logo.png" alt="Logo myDoodle">
+            </div>
+            <div class="searchContainer">
+                <form action="search.php" method="GET">
+                    <input type="text" class="searchBox" name="term" placeholder="Enter a search term...">
+                    <input type="submit" class="searchButton" value="Search">
+                </form>
+            </div>
         </div>
     </div>
 </body>
