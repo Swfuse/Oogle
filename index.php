@@ -12,7 +12,7 @@
             <img src="/img/logo.png" alt="Logo myDoodle">
         </div>
         <div class="searchContainer">
-            <form action="search.php">
+            <form action="search.php" method="GET">
                 <input type="text" class="searchBox" name="term" placeholder="Enter a search term...">
                 <input type="submit" class="searchButton" value="Search">
             </form>
