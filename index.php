@@ -15,7 +15,7 @@
     <div class="wrapper indexPage">
         <div class="mainSection">
             <div class="logoContainer">
-                <img alt="Site logo" title="logo of our site" src="/assets/img/logo.png" alt="Logo myDoodle">
+                <img alt="Site logo" title="logo of our site" src="/assets/img/logo.png" alt="Logo myOoogle">
             </div>
             <div class="searchContainer">
                 <form action="search.php" method="GET">
